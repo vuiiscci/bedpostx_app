@@ -2,7 +2,7 @@
 This includes everything required to build a docker and corresponding singularity container for the [bedpostx](https://github.com/justinblaber/bedpostx) pipeline.
 
 # Build Instructions:
-Just clone and run `build.sh`
+Just clone and run `build.sh`:
 ```
 git clone https://github.com/justinblaber/bedpostx_app.git
 cd bedpostx_app/
