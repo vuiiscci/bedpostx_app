@@ -1,0 +1,8 @@
+---
+root:
+- INPUTS:
+    - bedpostx.conf // config file specifying bedpostx params. Please visit justinblaber.org/bedpostx/ for a full explanation of the inputs
+    - dwmri.nii.gz
+    - dwmri.bvec
+    - dwmri.bval
+    - mask.nii.gz
