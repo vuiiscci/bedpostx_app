@@ -5,7 +5,7 @@ This includes everything required to build a docker and corresponding singularit
 Just clone and run `build.sh`
 ```
 git clone https://github.com/justinblaber/bedpostx_app.git
-cd dtiQA_app/
+cd bedpostx_app/
 ./build.sh
 ```
 
