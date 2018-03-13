@@ -29,6 +29,6 @@ singularity run -e \
 --nv \
 -B INPUTS/:/INPUTS \
 -B OUTPUTS/:/OUTPUTS \
-bedpostx.img
+shub://justinblaber/bedpostx_app
 ```
 For more detailed instructions on the inputs please visit: [https://justinblaber.org/bedpostx/](https://justinblaber.org/bedpostx/)
