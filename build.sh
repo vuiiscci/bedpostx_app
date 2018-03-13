@@ -39,6 +39,3 @@ sudo docker build --rm -t justinblaber/bedpostx .
 
 # Push docker - note this only affects latest tag. Must retag and push if you want to give a specific tag
 sudo docker push justinblaber/bedpostx
-
-# Create singularity image
-singularity build bedpostx.img docker://justinblaber/bedpostx
