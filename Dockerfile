@@ -12,6 +12,7 @@ RUN apt-get -y update && \
     apt-get -y install eog && \
     apt-get -y install evince && \
     apt-get -y install default-jdk && \
+    apt-get -y install python && \
     apt-get -y install python3 && \
     apt-get -y install python3-pip && \
     apt-get -y install vim && \
