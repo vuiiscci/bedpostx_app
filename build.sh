@@ -35,7 +35,7 @@ chmod +x $SCRIPT
 
 # Build docker
 cd ..
-sudo docker build --rm -t justinblaber/bedpostx .
+sudo docker build --rm -t vuiiscci/bedpostx .
 
 # Push docker - note this only affects latest tag. Must retag and push if you want to give a specific tag
-sudo docker push justinblaber/bedpostx
+sudo docker push vuiiscci/bedpostx
