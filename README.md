@@ -3,7 +3,7 @@ This includes everything required to build a docker and corresponding singularit
 
 [Docker Hub](https://hub.docker.com/r/vuiiscci/bedpostx/tags/)
 
-[Singularity Hub](https://singularity-hub.org/collections/727)
+[Singularity Hub](https://www.singularity-hub.org/collections/823)
 
 # Build Instructions:
 Just clone and run `build.sh`:
